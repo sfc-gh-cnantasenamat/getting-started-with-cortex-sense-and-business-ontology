@@ -1,0 +1,31 @@
+id,category,question,expected,wrong
+V01,governed,How many suppliers do we have?,14,15
+V02,governed,What is our on-time delivery rate?,66.67,90
+V03,governed,What is the carrier-reported on-time rate?,90,66.67
+V04,governed,How many shipments are included in the calculation of our official on-time delivery rate?,15,20
+V05,governed,What percent of total procurement spend goes to suppliers that are not active?,1.66,0
+V06,governed,How many active suppliers are in Mexico?,1,2
+V07,governed,What is the on-time delivery rate for TransGlobal Freight?,0,87
+V08,governed,What is our procurement spend with strategic suppliers?,251690,1353690
+V09,governed,What percentage of vendor records are active suppliers?,93.33,100
+V10,governed,What is the on-time delivery rate for shipments carried by carriers whose self-reported on-time rate is above 90 percent?,75,93.67
+V11,discovery,How many distinct vendors have an APPROVED qualification in the qualification matrix?,12,0
+V12,discovery,How many qualification records are still PENDING?,2,0
+V13,discovery,How many vendors have an approved qualification but are missing from the vendor master?,11,0
+V14,discovery,What is the total cost posted to cost object KS-MFG-US?,419750,0
+V15,discovery,What is the total amount of accounts payable postings with posting key 31?,1606190,0
+V16,discovery,What is the total net value of all sales order lines?,746000,0
+V17,discovery,How many pricing condition records have condition type K007?,8,0
+V18,discovery,What is the total storage capacity across all storage locations?,558,0
+V19,discovery,How many storage locations belong to plant PLT-001?,3,0
+V20,discovery,How many distinct customers appear on sales order lines?,5,0
+V21,control,How many materials are in the material master?,24,0
+V22,control,How many plants do we have?,5,0
+V23,control,How many carriers do we use?,6,0
+V24,control,How many purchase order lines are there?,25,0
+V25,control,How many inspection lots are there?,10,0
+V26,control,What is the average carrier transit time in days?,13.5,0
+V27,control,How many shipments are still in transit?,3,0
+V28,control,What is the total delivered quantity across delivered shipments?,279300,0
+V29,control,How many distinct materials have been ordered on purchase orders?,17,0
+V30,control,What is the largest single purchase order line net value?,97500,0
